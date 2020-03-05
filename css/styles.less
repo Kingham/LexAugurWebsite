@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,500,600,700&display=swap');
+@import 'https://kingham.github.io/style/reset.less';
+@import 'https://kingham.github.io/style/styles.less';
+@import 'https://kingham.github.io/style/buttons.less';
+
+@navy:  #061861;
+@blue:  #2A5FFC;
+@grey:  #8592A5;
+@black: #011637;
+@red:   #DA3446;
+@amber: #DAAD34;
+@green: #1DB959;
+
+@dark:  #1c1d27;
+@darklight:  lighten(@dark, 5%);
+@darklighter: #434556; //border
+
+@hover: darken(@blue, 5%);
+
+@br: 4px;
+
+
+body {
+    font-family: 'IBM Plex Sans', 'Arial', sans-serif;
+    color: @navy;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header {
+    padding: 40px;
+    text-align: center;
+    .logo {
+        width: 300px;
+    }
+}
+
+.container {
+    padding: 40px;
+    text-align: center;
+}
+
+.button { //button
+    height: 34px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    background: @blue;
+    color: @white;
+    box-sizing: border-box;
+    border-radius: @br;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none;
+    .transition;
+    &:hover {
+        background: @hover;
+    }
+}
