@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="462" height="459" viewBox="0 0 462 459">
+  <defs>
+    <filter id="Rectangle_29" x="-17" y="7" width="303" height="203" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-color="#0037ad" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_72" x="186" y="7" width="303" height="203" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-2"/>
+      <feFlood flood-color="#0037ad" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_32" x="-27" y="207" width="459" height="187" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-3"/>
+      <feFlood flood-color="#0037ad" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_73" x="86" y="84" width="303" height="203" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-4"/>
+      <feFlood flood-color="#0037ad" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_182" x="31" y="270" width="459" height="187" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-5"/>
+      <feFlood flood-color="#0037ad" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_8">
+      <rect width="462" height="459"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_8" data-name="Artboard – 8" clip-path="url(#clip-Artboard_8)">
+    <g id="Group_215" data-name="Group 215" transform="translate(0 26)">
+      <g transform="matrix(1, 0, 0, 1, 0, -26)" filter="url(#Rectangle_29)">
+        <rect id="Rectangle_29-2" data-name="Rectangle 29" width="183" height="83" rx="4" transform="translate(43 64)" fill="#fff"/>
+      </g>
+      <text id="Current_case_odds" data-name="Current case odds" transform="translate(53 60)" fill="#8592a5" font-size="10" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">CURRENT CASE ODDS</tspan></text>
+      <text id="_56.4_" data-name="56.4%" transform="translate(53 101)" fill="#1db959" font-size="20" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">56.4%</tspan></text>
+      <path id="Path_13" data-name="Path 13" d="M563.666,2689.972l58.711-3.946v9.027H563.666Z" transform="translate(-438 -2594)" fill="#c7eed5"/>
+      <path id="Path_14" data-name="Path 14" d="M563.666,2689.972l58.711-3.946" transform="translate(-438 -2594)" fill="none" stroke="#1db959" stroke-width="1"/>
+    </g>
+    <g id="Group_214" data-name="Group 214" transform="translate(0 26)">
+      <g transform="matrix(1, 0, 0, 1, 0, -26)" filter="url(#Path_72)">
+        <path id="Path_72-2" data-name="Path 72" d="M4,0H179a4,4,0,0,1,4,4V79a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(246 64)" fill="#fff"/>
+      </g>
+      <text id="Odds_since_start" data-name="Odds since start" transform="translate(256 60)" fill="#8592a5" font-size="10" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">ODDS SINCE START</tspan></text>
+      <text id="_1.3_" data-name="1.3%" transform="translate(269 101)" fill="#1db959" font-size="20" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">1.3%</tspan></text>
+      <g id="Group_10" data-name="Group 10" transform="translate(789.707 350.707) rotate(180)">
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="6" height="2" transform="translate(526.439 251.525) rotate(45)" fill="#1db959"/>
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="6" height="2" transform="translate(533.682 252.939) rotate(135)" fill="#1db959"/>
+      </g>
+    </g>
+    <g id="Group_212" data-name="Group 212" transform="translate(-9 -59)">
+      <g transform="matrix(1, 0, 0, 1, 9, 59)" filter="url(#Rectangle_32)">
+        <rect id="Rectangle_32-2" data-name="Rectangle 32" width="339" height="67" rx="4" transform="translate(33 264)" fill="#fff"/>
+      </g>
+      <text id="As_the_case_currently_stands_switching_to_Leeds_Court_would_increase_the_odds_of_winning_by_3.4_" data-name="As the case currently stands, switching to Leeds Court
+would increase the odds of winning by 3.4%" transform="translate(95 353)" fill="#011637" font-size="10" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">As the case currently stands, switching to </tspan><tspan y="0" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-weight="700">Leeds Court</tspan><tspan x="0" y="13">would increase the odds of winning by</tspan><tspan y="13" xml:space="preserve" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-weight="700"> 3.4%</tspan></text>
+      <g id="wq8pvf.tif_1_" transform="translate(62.719 343.638)">
+        <g id="Group_27" data-name="Group 27" transform="translate(0 0)">
+          <path id="Path_17" data-name="Path 17" d="M126.327,125.3a5.459,5.459,0,0,1-1.12,3.464c-.222.292-.489.551-.718.835a4.987,4.987,0,0,0-1.058,2.407c0,.026-.011.055-.015.08a.368.368,0,0,1-.339.361q-1.023.224-2.049.445l-2.082.452a.587.587,0,0,1-.252.011c-.182-.04-.266-.179-.277-.4a9.487,9.487,0,0,0-.058-.97,4.979,4.979,0,0,0-1.145-2.494c-.237-.284-.5-.551-.715-.85a5.13,5.13,0,0,1-1.01-3.526,5.254,5.254,0,0,1,3.2-4.58,5.129,5.129,0,0,1,4.566.062,5.287,5.287,0,0,1,2.954,3.774A7.085,7.085,0,0,1,126.327,125.3Zm-7.18,7.257a.306.306,0,0,0,.069-.011c1.138-.248,2.279-.5,3.417-.74.084-.018.109-.055.128-.135a5.605,5.605,0,0,1,1.167-2.527c.212-.259.452-.492.656-.758a4.609,4.609,0,0,0,.926-3.793,4.486,4.486,0,0,0-1.455-2.589,4.576,4.576,0,0,0-3.836-1.171,4.443,4.443,0,0,0-2.695,1.389,4.583,4.583,0,0,0-1.218,4.227,4.431,4.431,0,0,0,.988,2.035c.186.222.394.43.576.66a5.725,5.725,0,0,1,1.247,3.041C119.129,132.311,119.136,132.431,119.147,132.559Z" transform="translate(-111.259 -115.657)" fill="#ffa700"/>
+          <path id="Path_18" data-name="Path 18" d="M201.419,517.388a.345.345,0,0,1-.277.346c-.664.146-1.327.288-1.991.434l-2.09.459a1.509,1.509,0,0,1-.252.044.364.364,0,0,1-.095-.718c.427-.095.853-.186,1.28-.277l1.521-.328c.492-.106.985-.215,1.477-.321A.368.368,0,0,1,201.419,517.388Z" transform="translate(-189.265 -498.167)" fill="#ffa700"/>
+          <path id="Path_19" data-name="Path 19" d="M196.381,480.562a.364.364,0,0,1-.383-.31.345.345,0,0,1,.263-.394c.314-.077.627-.142.941-.208.507-.109,1.014-.222,1.521-.332q.9-.2,1.8-.39a.361.361,0,0,1,.452.277.369.369,0,0,1-.306.441l-3.355.722c-.263.058-.529.117-.791.171C196.464,480.551,196.41,480.558,196.381,480.562Z" transform="translate(-188.846 -461.453)" fill="#ffa700"/>
+          <path id="Path_20" data-name="Path 20" d="M225.308,551.829a1.7,1.7,0,0,1-1.47-.777.363.363,0,0,1,.357-.562.358.358,0,0,1,.259.179.913.913,0,0,0,.514.387.951.951,0,0,0,1.207-.722.405.405,0,0,1,.2-.328.342.342,0,0,1,.379.026.37.37,0,0,1,.146.394,1.674,1.674,0,0,1-1.357,1.375C225.458,551.815,225.366,551.822,225.308,551.829Z" transform="translate(-215.611 -529.905)" fill="#ffa700"/>
+          <path id="Path_21" data-name="Path 21" d="M390.3,76.4a.362.362,0,0,1,.117-.255c.529-.529,1.054-1.058,1.583-1.586a.363.363,0,1,1,.514.511q-.788.793-1.583,1.586a.354.354,0,0,1-.408.091A.345.345,0,0,1,390.3,76.4Z" transform="translate(-376.064 -71.722)" fill="#ffa700"/>
+          <path id="Path_22" data-name="Path 22" d="M76.847,390.446a.367.367,0,0,1-.12.277c-.525.525-1.05,1.054-1.579,1.575a.363.363,0,1,1-.507-.518q.788-.793,1.579-1.579a.363.363,0,0,1,.627.244Z" transform="translate(-71.796 -375.859)" fill="#ffa700"/>
+          <path id="Path_23" data-name="Path 23" d="M1.5,254.4H2.64a.36.36,0,0,1,.343.241.34.34,0,0,1-.117.4.491.491,0,0,1-.244.084c-.748.007-1.5,0-2.243,0A.361.361,0,0,1,0,254.768a.368.368,0,0,1,.379-.368Z" transform="translate(0 -245.123)" fill="#ffa700"/>
+          <path id="Path_24" data-name="Path 24" d="M448.008,254.4h1.138a.351.351,0,0,1,.335.259.344.344,0,0,1-.142.4.449.449,0,0,1-.212.066c-.751,0-1.5,0-2.25,0a.363.363,0,1,1,0-.726Z" transform="translate(-430.216 -245.123)" fill="#ffa700"/>
+          <path id="Path_25" data-name="Path 25" d="M255.126,1.5V2.637a.338.338,0,0,1-.208.325.36.36,0,0,1-.518-.332V.372a.363.363,0,1,1,.726.007C255.129.755,255.126,1.127,255.126,1.5Z" transform="translate(-245.123 0)" fill="#ffa700"/>
+          <path id="Path_26" data-name="Path 26" d="M390.2,390.511a.362.362,0,0,1,.569-.3.92.92,0,0,1,.091.077l1.532,1.532a.391.391,0,0,1,.135.368.36.36,0,0,1-.573.215.622.622,0,0,1-.073-.066q-.766-.766-1.535-1.532A.406.406,0,0,1,390.2,390.511Z" transform="translate(-375.971 -375.917)" fill="#ffa700"/>
+          <path id="Path_27" data-name="Path 27" d="M76.891,76.551a.344.344,0,0,1-.2.321.333.333,0,0,1-.361-.029.43.43,0,0,1-.077-.066l-1.572-1.572a.358.358,0,0,1,.16-.616.366.366,0,0,1,.365.117l.733.733.824.824A.382.382,0,0,1,76.891,76.551Z" transform="translate(-71.841 -71.858)" fill="#ffa700"/>
+          <path id="Path_28" data-name="Path 28" d="M216.962,249.974c.4-.4.766-.78,1.138-1.156a.379.379,0,0,1,.365-.135.361.361,0,0,1,.19.6q-.624.629-1.251,1.251a.232.232,0,0,0-.077.182c0,1.451,0,2.906,0,4.358a.412.412,0,0,1-.1.31.346.346,0,0,1-.376.095.357.357,0,0,1-.248-.31.738.738,0,0,1,0-.128v-4.329a.226.226,0,0,0-.073-.175q-.618-.618-1.236-1.24a.359.359,0,0,1-.036-.492.351.351,0,0,1,.511-.047.914.914,0,0,1,.088.08c.343.343.689.686,1.032,1.032A.563.563,0,0,1,216.962,249.974Z" transform="translate(-207.328 -239.603)" fill="#ffa700"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_213" data-name="Group 213" transform="translate(0 5)">
+      <g transform="matrix(1, 0, 0, 1, 0, -5)" filter="url(#Path_73)">
+        <path id="Path_73-2" data-name="Path 73" d="M4,0H179a4,4,0,0,1,4,4V79a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(146 141)" fill="#fff"/>
+      </g>
+      <text id="Case_settlement_estimate" data-name="Case settlement estimate" transform="translate(159 155)" fill="#8592a5" font-size="10" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">CASE SETTLEMENT ESTIMATE</tspan></text>
+      <text id="_200_000" data-name="£200,000" transform="translate(159 205)" fill="#011637" font-size="14" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">£200,000</tspan></text>
+      <text id="_300_000" data-name="£300,000" transform="translate(252 205)" fill="#011637" font-size="14" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">£300,000</tspan></text>
+      <text id="_255_000" data-name="£255,000" transform="translate(224 175)" fill="#1db959" font-size="10" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">£255,000</tspan></text>
+      <line id="Line_31" data-name="Line 31" x2="155" transform="translate(159.5 184.5)" fill="none" stroke="#e2e5ee" stroke-width="1"/>
+      <circle id="Ellipse_34" data-name="Ellipse 34" cx="5" cy="5" r="5" transform="translate(242 179)" fill="#1db959"/>
+    </g>
+    <g id="Group_218" data-name="Group 218" transform="translate(29 -32)">
+      <g transform="matrix(1, 0, 0, 1, -29, 32)" filter="url(#Rectangle_182)">
+        <rect id="Rectangle_182-2" data-name="Rectangle 182" width="339" height="67" rx="4" transform="translate(91 327)" fill="#fff"/>
+      </g>
+      <text id="It_looks_like_Manchester_Office_is_the_best_office_to_complete_this_case" data-name="It looks like Manchester Office is the best office to
+complete this case" transform="translate(116 391)" fill="#011637" font-size="10" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">It looks like </tspan><tspan y="0" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-weight="700">Manchester Office</tspan><tspan y="0" xml:space="preserve"> is the best office to</tspan><tspan x="0" y="13">complete this case</tspan></text>
+      <g id="Group_217" data-name="Group 217" transform="translate(-439 140)">
+        <rect id="Rectangle_2-2" data-name="Rectangle 2" width="6" height="2" transform="translate(526.439 251.525) rotate(45)" fill="#1db959"/>
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="10" height="2" transform="translate(536.51 250.111) rotate(135)" fill="#1db959"/>
+      </g>
+    </g>
+  </g>
+</svg>

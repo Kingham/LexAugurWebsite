@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="462" height="459" viewBox="0 0 462 459">
+  <defs>
+    <filter id="Rectangle_138" x="-24" y="85" width="487" height="283" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-color="#0037ad" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_139" x="1" y="200" width="487" height="283" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-2"/>
+      <feFlood flood-color="#0037ad" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_136" x="1" y="-17" width="487" height="283" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-3"/>
+      <feFlood flood-color="#0037ad" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_6">
+      <rect width="462" height="459"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_6" data-name="Artboard – 6" clip-path="url(#clip-Artboard_6)">
+    <g id="Group_208" data-name="Group 208" transform="translate(-12 -6)">
+      <g transform="matrix(1, 0, 0, 1, 12, 6)" filter="url(#Rectangle_138)">
+        <rect id="Rectangle_138-2" data-name="Rectangle 138" width="367" height="163" rx="4" transform="translate(36 142)" fill="#fff"/>
+      </g>
+      <text id="Barrister" transform="translate(69 178)" fill="#011637" font-size="10" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">BARRISTER</tspan></text>
+      <text id="_2_cases_using_barrister_Francis_Irons" data-name="2 cases using barrister Francis Irons" transform="translate(69 213)" fill="#011637" font-size="16" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">2 cases using barrister Francis Irons</tspan></text>
+      <text id="_95_" data-name="95%" transform="translate(69 280)" fill="#011637" font-size="14" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">95%</tspan></text>
+      <text id="_100_" data-name="100%" transform="translate(231 280)" fill="#011637" font-size="14" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">100%</tspan></text>
+      <text id="Overall_success_rate_of_this_barrister_in_last_6_months" data-name="Overall success rate of this barrister in last 6 months" transform="translate(69 233)" fill="#011637" font-size="10" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-weight="700"><tspan x="0" y="10">Overall</tspan><tspan y="10" xml:space="preserve" font-family="IBMPlexSans, IBM Plex Sans" font-weight="400"> success rate of this </tspan><tspan x="0" y="23" font-family="IBMPlexSans, IBM Plex Sans" font-weight="400">barrister in last 6 months</tspan></text>
+      <text id="Success_of_like-for-like_cases_with_this_barrister_in_last_6_months" data-name="Success of like-for-like cases with this barrister in last 6 months" transform="translate(231 233)" fill="#011637" font-size="10" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="10">Success of like-for-like cases with </tspan><tspan x="0" y="23">this barrister in last 6 months</tspan></text>
+      <text id="View_Cases" data-name="View Cases" transform="translate(340 178)" fill="#1d64fb" font-size="10" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">View Cases</tspan></text>
+    </g>
+    <g id="Group_209" data-name="Group 209" transform="translate(13 -66)">
+      <g transform="matrix(1, 0, 0, 1, -13, 66)" filter="url(#Rectangle_139)">
+        <rect id="Rectangle_139-2" data-name="Rectangle 139" width="367" height="163" rx="4" transform="translate(61 257)" fill="#fff"/>
+      </g>
+      <text id="Office" transform="translate(69 353)" fill="#011637" font-size="10" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">OFFICE</tspan></text>
+      <text id="_3_cases_using_Manchester_Office" data-name="3 cases using Manchester Office" transform="translate(69 388)" fill="#011637" font-size="16" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">3 cases using Manchester Office</tspan></text>
+      <text id="_86_" data-name="86%" transform="translate(69 455)" fill="#011637" font-size="14" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">86%</tspan></text>
+      <text id="_90_" data-name="90%" transform="translate(231 455)" fill="#011637" font-size="14" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">90%</tspan></text>
+      <text id="Overall_success_rate_of_this_office_in_last_6_months" data-name="Overall success rate of this office in last 6 months" transform="translate(69 408)" fill="#011637" font-size="10" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-weight="700"><tspan x="0" y="10">Overall</tspan><tspan y="10" xml:space="preserve" font-family="IBMPlexSans, IBM Plex Sans" font-weight="400"> success rate of this </tspan><tspan x="0" y="23" font-family="IBMPlexSans, IBM Plex Sans" font-weight="400">office in last 6 months</tspan></text>
+      <text id="Success_of_like-for-like_cases_with_this_office_in_last_6_months" data-name="Success of like-for-like cases with this office in last 6 months" transform="translate(231 408)" fill="#011637" font-size="10" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="10">Success of like-for-like cases with </tspan><tspan x="0" y="23">this office in last 6 months</tspan></text>
+      <text id="View_Cases-2" data-name="View Cases" transform="translate(340 353)" fill="#1d64fb" font-size="10" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">View Cases</tspan></text>
+    </g>
+    <g id="Group_207" data-name="Group 207" transform="translate(13 67)">
+      <g transform="matrix(1, 0, 0, 1, -13, -67)" filter="url(#Rectangle_136)">
+        <rect id="Rectangle_136-2" data-name="Rectangle 136" width="367" height="163" rx="4" transform="translate(61 40)" fill="#fff"/>
+      </g>
+      <text id="court" transform="translate(69 3)" fill="#011637" font-size="10" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">COURT</tspan></text>
+      <text id="_7_cases_using_Leeds_Court" data-name="7 cases using Leeds Court" transform="translate(69 38)" fill="#011637" font-size="16" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">7 cases using Leeds Court</tspan></text>
+      <text id="_84_" data-name="84%" transform="translate(69 105)" fill="#011637" font-size="14" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">84%</tspan></text>
+      <text id="_89_" data-name="89%" transform="translate(231 105)" fill="#011637" font-size="14" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">89%</tspan></text>
+      <text id="Overall_success_rate_at_this_court_in_last_6_months" data-name="Overall success rate at this court in last 6 months" transform="translate(69 58)" fill="#011637" font-size="10" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-weight="700"><tspan x="0" y="10">Overall</tspan><tspan y="10" xml:space="preserve" font-family="IBMPlexSans, IBM Plex Sans" font-weight="400"> success rate at this </tspan><tspan x="0" y="23" font-family="IBMPlexSans, IBM Plex Sans" font-weight="400">court in last 6 months</tspan></text>
+      <text id="Success_of_like-for-like_cases_at_this_court_in_last_6_months" data-name="Success of like-for-like cases at this court in last 6 months" transform="translate(231 58)" fill="#011637" font-size="10" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="10">Success of like-for-like cases </tspan><tspan x="0" y="23">at this court in last 6 months</tspan></text>
+      <text id="View_Cases-3" data-name="View Cases" transform="translate(340 3)" fill="#1d64fb" font-size="10" font-family="IBMPlexSans-SemiBold, IBM Plex Sans" font-weight="600"><tspan x="0" y="0">View Cases</tspan></text>
+    </g>
+  </g>
+</svg>
