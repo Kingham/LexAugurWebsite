@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/LexAugurWebsite/static/css/main.da42f8c7.chunk.css",
-    "main.js": "/LexAugurWebsite/static/js/main.3d5f2b4b.chunk.js",
-    "main.js.map": "/LexAugurWebsite/static/js/main.3d5f2b4b.chunk.js.map",
-    "runtime-main.js": "/LexAugurWebsite/static/js/runtime-main.71462156.js",
-    "runtime-main.js.map": "/LexAugurWebsite/static/js/runtime-main.71462156.js.map",
-    "static/js/2.2d2ea6e8.chunk.js": "/LexAugurWebsite/static/js/2.2d2ea6e8.chunk.js",
-    "static/js/2.2d2ea6e8.chunk.js.map": "/LexAugurWebsite/static/js/2.2d2ea6e8.chunk.js.map",
-    "index.html": "/LexAugurWebsite/index.html",
-    "precache-manifest.b92f03cb8626d4b3a89babfe71028b14.js": "/LexAugurWebsite/precache-manifest.b92f03cb8626d4b3a89babfe71028b14.js",
-    "service-worker.js": "/LexAugurWebsite/service-worker.js",
-    "static/css/main.da42f8c7.chunk.css.map": "/LexAugurWebsite/static/css/main.da42f8c7.chunk.css.map",
-    "static/js/2.2d2ea6e8.chunk.js.LICENSE.txt": "/LexAugurWebsite/static/js/2.2d2ea6e8.chunk.js.LICENSE.txt"
+    "main.css": "/lexaugurwebsite/static/css/main.da42f8c7.chunk.css",
+    "main.js": "/lexaugurwebsite/static/js/main.94959550.chunk.js",
+    "main.js.map": "/lexaugurwebsite/static/js/main.94959550.chunk.js.map",
+    "runtime-main.js": "/lexaugurwebsite/static/js/runtime-main.c7080a8d.js",
+    "runtime-main.js.map": "/lexaugurwebsite/static/js/runtime-main.c7080a8d.js.map",
+    "static/js/2.2d2ea6e8.chunk.js": "/lexaugurwebsite/static/js/2.2d2ea6e8.chunk.js",
+    "static/js/2.2d2ea6e8.chunk.js.map": "/lexaugurwebsite/static/js/2.2d2ea6e8.chunk.js.map",
+    "index.html": "/lexaugurwebsite/index.html",
+    "precache-manifest.bd59354cc3ada944c9e7ed4411c7caa8.js": "/lexaugurwebsite/precache-manifest.bd59354cc3ada944c9e7ed4411c7caa8.js",
+    "service-worker.js": "/lexaugurwebsite/service-worker.js",
+    "static/css/main.da42f8c7.chunk.css.map": "/lexaugurwebsite/static/css/main.da42f8c7.chunk.css.map",
+    "static/js/2.2d2ea6e8.chunk.js.LICENSE.txt": "/lexaugurwebsite/static/js/2.2d2ea6e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.71462156.js",
+    "static/js/runtime-main.c7080a8d.js",
     "static/js/2.2d2ea6e8.chunk.js",
     "static/css/main.da42f8c7.chunk.css",
-    "static/js/main.3d5f2b4b.chunk.js"
+    "static/js/main.94959550.chunk.js"
   ]
 }
