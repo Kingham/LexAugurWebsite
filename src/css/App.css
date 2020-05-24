@@ -301,6 +301,12 @@ body {
   font-family: 'IBM Plex Sans', 'Arial', sans-serif;
   color: #011637;
 }
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
 body input,
 body select {
   font-family: 'IBM Plex Sans', 'Arial', sans-serif;
